@@ -1,0 +1,1 @@
+Parabéns {{$dados->cliente->nome}}, nós da {{$dados->empresa->nome}} desejamos um feliz aniversário!

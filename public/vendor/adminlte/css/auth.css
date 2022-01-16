@@ -1,0 +1,16 @@
+body {
+    background-image: url("/img/bg.jpg") !important;
+    background-size: inherit !important;
+    background-repeat: no-repeat !important;
+}
+.auth-links {
+    margin-top: 10px;
+}
+.login-box-body, .register-box-body {
+    background: rgba(255,255,255,0.9);
+    padding: 20px;
+    /* border-top: 0; */
+    color: #666;
+    border: solid white 5px;
+    border-radius: 30px;
+}
